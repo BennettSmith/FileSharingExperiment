@@ -11,6 +11,7 @@
 		233F03E02BFB9C5C0069FEB5 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 233F03DF2BFB9C5C0069FEB5 /* ContentView.swift */; };
 		233F03E22BFB9C5E0069FEB5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 233F03E12BFB9C5E0069FEB5 /* Assets.xcassets */; };
 		233F03E52BFB9C5E0069FEB5 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 233F03E42BFB9C5E0069FEB5 /* Preview Assets.xcassets */; };
+		233F03EC2BFB9DE80069FEB5 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 233F03EB2BFB9DE80069FEB5 /* AppDelegate.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		233F03DF2BFB9C5C0069FEB5 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		233F03E12BFB9C5E0069FEB5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		233F03E42BFB9C5E0069FEB5 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		233F03EB2BFB9DE80069FEB5 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +54,7 @@
 			isa = PBXGroup;
 			children = (
 				233F03DD2BFB9C5C0069FEB5 /* FileSharingExplorerApp.swift */,
+				233F03EB2BFB9DE80069FEB5 /* AppDelegate.swift */,
 				233F03DF2BFB9C5C0069FEB5 /* ContentView.swift */,
 				233F03E12BFB9C5E0069FEB5 /* Assets.xcassets */,
 				233F03E32BFB9C5E0069FEB5 /* Preview Content */,
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				233F03EC2BFB9DE80069FEB5 /* AppDelegate.swift in Sources */,
 				233F03E02BFB9C5C0069FEB5 /* ContentView.swift in Sources */,
 				233F03DE2BFB9C5C0069FEB5 /* FileSharingExplorerApp.swift in Sources */,
 			);
